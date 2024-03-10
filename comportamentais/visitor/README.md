@@ -1,0 +1,1 @@
+Permite que você separe algoritmos dos objetos nos quais eles operam.

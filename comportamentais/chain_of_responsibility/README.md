@@ -1,0 +1,1 @@
+Transforma o pedido em um objeto independente que contém toda a informação sobre o pedido. Essa Transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e suporte operações que não podem ser feitas.

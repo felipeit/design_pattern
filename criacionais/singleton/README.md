@@ -1,0 +1,1 @@
+Permite a você garantir que uma classe tem apenas uma instância, enquanto provê um ponto de acesso global para esta instância.

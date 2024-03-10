@@ -1,0 +1,1 @@
+Permite que você copie objetos existentes sem fazer seu código ficar dependente de suas classes.

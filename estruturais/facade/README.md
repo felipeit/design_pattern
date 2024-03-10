@@ -1,0 +1,1 @@
+Fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer outro conjunto complexo de classes.

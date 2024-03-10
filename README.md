@@ -15,3 +15,6 @@ Os padrões criacionais lidam com o processo de criação de objetos, proporcion
 Os padrões estruturais se concentram na composição de classes e objetos. 
 
 Este estudo sobre design pattern visa aprimorar a qualidade, manutenção e extensibilidade do código, seguindo princípios sólidos de design de software. Ao implementar esses padrões, esperamos fortalecer a estrutura do projeto e facilitar futuras modificações e expansões.
+
+
+https://refactoring.guru/pt-br/design-patterns/
